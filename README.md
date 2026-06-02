@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm [Arthur Sinisgalli](https://github.com/Arthur-Sinisgalli)
-
-I'm currently working on a full stack auth service
+I'm [Arthur Sinisgalli](https://github.com/Arthur-Sinisgalli) currently working on a full stack auth service
 
 ### Languages & Frameworks
 
