@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Arthur-Sinisgalli/Arthur-Sinisgalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Arthur Sinisgalli](https://github.com/Arthur-Sinisgalli)
 
-Here are some ideas to get you started:
+I'm currently working on a full stack auth service
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-a
+### Languages & Frameworks
+
+![JavaScript](https://shields.io)
+![Express.js](https://shields.io)
+![Python](https://shields.io)
+![C++](https://shields.io)
+![Lua](https://shields.io)
+
+### Databases, Tools & Concepts
+
+![Prisma](https://shields.io)
+![MongoDB](https://shields.io)
+![REST API](https://shields.io)
