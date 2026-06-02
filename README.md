@@ -7,6 +7,7 @@ I'm currently working on a full stack auth service
 ### Languages & Frameworks
 
 ![JavaScript](https://shields.io)
+
 ![Express.js](https://shields.io)
 ![Python](https://shields.io)
 ![C++](https://shields.io)
