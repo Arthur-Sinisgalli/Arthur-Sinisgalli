@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Arthur Sinisgalli](https://github.com/Arthur-Sinisgalli) currently working on a full stack auth service
+I'm [Arthur Sinisgalli](https://github.com/Arthur-Sinisgalli) currently working on a JWT auth system
 
 ### Languages & Frameworks
 
